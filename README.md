@@ -18,7 +18,9 @@
 	
 	3. Realm - 永久性儲存資料
 	
-	4. Charts - 統計數據圖                                                                                                                                                                                                                                                               5. Core Bluetooth - 用Nordic板子BLE串接
+	4. Charts - 統計數據圖
+	
+	5. Core Bluetooth - 用Nordic板子BLE串接
 
 ### Screen Shots
 -----------
