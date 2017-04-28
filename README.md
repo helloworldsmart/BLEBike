@@ -24,7 +24,7 @@
 -----------
 !["ScreenShots"]()
 	  
-###Requirement
+### Requirement
 -----------
 
 - Xcode 7
@@ -34,7 +34,7 @@
 ### Author
 * [Michael Chen](https://www.facebook.com/helloWorldMichaelChen)
 
-###License
+### License
 
 Copyright 2017 Michael Chen
 
