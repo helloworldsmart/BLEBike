@@ -21,6 +21,8 @@
 	4. Charts - 統計數據圖
 	
 	5. Core Bluetooth - 用Nordic板子BLE串接
+	
+	6.Firebase - 串接Firebase實作Google,FB帳號登錄功能
 
 ### Screen Shots
 -----------
